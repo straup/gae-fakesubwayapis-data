@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
+1,"Massachusetts Bay Transit Authority","http://www.mbta.com/",America/New_York,"http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=%s"

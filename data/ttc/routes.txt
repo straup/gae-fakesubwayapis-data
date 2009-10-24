@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name
+Y,Y,"Yonge - University - Spadina"
+B,B,"Bloor - Danforth"
+SC,SC,"Scarborough RT"
+SH,SH,"Sheppard"

@@ -1,0 +1,44 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,fsa_stop_id
+orin,Orinda,,,,,orin
+ftvl,Fruitvale (Oakland),,,,,ftvl
+civc,Civic Center (SF),,,,,civc
+nbrk,North Berkeley,,,,,nbrk
+cols,Coliseum/Oakland Airport,,,,,cols
+plza,El Cerrito Plaza,,,,,plza
+woak,West Oakland,,,,,woak
+conc,Concord,,,,,conc
+ncon,North Concord/Martinez,,,,,ncon
+sfia,San Francisco Int'l Airport,,,,,sfia
+24th,24th St. Mission (SF),,,,,24th
+mlbr,Millbrae,,,,,mlbr
+glen,Glen Park (SF),,,,,glen
+bayf,Bay Fair (San Leandro),,,,,bayf
+dbrk,Downtown Berkeley,,,,,dbrk
+shay,South Hayward,,,,,shay
+lake,Lake Merritt (Oakland),,,,,lake
+19th,19th St. Oakland,,,,,19th
+rich,Richmond,,,,,rich
+frmt,Fremont,,,,,frmt
+ssan,South San Francisco,,,,,ssan
+balb,Balboa Park (SF),,,,,balb
+deln,El Cerrito del Norte,,,,,deln
+mcar,MacArthur (Oakland),,,,,mcar
+dubl,Dublin/Pleasanton,,,,,dubl
+embr,Embarcadero (SF),,,,,embr
+wcrk,Walnut Creek,,,,,wcrk
+daly,Daly City,,,,,daly
+sbrn,San Bruno,,,,,sbrn
+hayw,Hayward,,,,,hayw
+lafy,Lafayette,,,,,lafy
+12th,12th St. Oakland City Center,,,,,12th
+phil,Pleasant Hill,,,,,phil
+pitt,Pittsburg/Bay Point,,,,,pitt
+ashb,Ashby (Berkeley),,,,,ashb
+ucty,Union City,,,,,ucty
+cast,Castro Valley,,,,,cast
+mont,Montgomery St. (SF),,,,,mont
+colm,Colma,,,,,colm
+powl,Powell St. (SF),,,,,powl
+rock,Rockridge (Oakland),,,,,rock
+sanl,San Leandro,,,,,sanl
+16th,16th St. Mission (SF),,,,,16th

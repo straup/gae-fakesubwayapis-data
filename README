@@ -1,0 +1,12 @@
+These are the raw data files used by Fake Subway APIs:
+
+      http://fakesubwayapis.appspot.com
+      http://github.com/straup/gae-fakesubwayapis
+
+They are not 100% compliant with the Google Transit Feed Specification but are
+modeled after the agency, stops and routes definitions with "fsa_" extensions
+where necessary.
+
+      http://code.google.com/transit/spec/transit_feed_specification.html
+
+They are also incomplete, as of this writing.

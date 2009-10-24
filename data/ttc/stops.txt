@@ -1,0 +1,70 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,fsa_stop_id,fsa_stop_routes
+Davisville,"Davisville",,,,,davisville,Y
+Islington,"Islington",,,,,islington,B
+Queen,"Queen",,,,,queen,Y
+High_Park,"High Park",,,,,high_park,B
+Union,"Union",,,,,union,Y
+Coxwell,"Coxwell",,,,,coxwell,B
+Museum,"Museum",,,,,museum,Y
+Queens_Park,"Queen's Park",,,,,queens_park,Y
+Christie,"Christie",,,,,christie,B
+Sherbourne,"Sherbourne",,,,,sherbourne,B
+Old_Mill,"Old Mill",,,,,old_mill,B
+Lawrence,"Lawrence",,,,,lawrence,Y
+Don_Mills,"Don Mills",,,,,don_mills,SH
+Dundas,"Dundas",,,,,dundas,Y
+Broadview,"Broadview",,,,,broadview,B
+Finch,"Finch",,,,,finch,Y
+Jane,"Jane",,,,,jane,B
+Lawrence_West,"Lawrence West",,,,,lawrence_west,Y
+Dufferin,"Dufferin",,,,,dufferin,B
+Wellesley,"Wellesley",,,,,wellesley,Y
+Victoria_Park,"Victoria Park",,,,,victoria_park,B
+Summerhill,"Summerhill",,,,,summerhill,Y
+Keele,"Keele",,,,,keele,B
+Sheppard-Yonge,"Sheppard-Yonge",,,,,sheppard-yonge,Y;SH
+Donlands,"Donlands",,,,,donlands,B
+Pape,"Pape",,,,,pape,B
+Runnymede,"Runnymede",,,,,runnymede,B
+Ossington,"Ossington",,,,,ossington,B
+Main_Street,"Main Street",,,,,main_street,B
+Castle_Frank,"Castle Frank",,,,,castle_frank,B
+Warden,"Warden",,,,,warden,B
+Dundas_West,"Dundas West",,,,,dundas_west,B
+Downsview,"Downsview",,,,,downsview,Y
+York_Mills,"York Mills",,,,,york_mills,Y
+Greenwood,"Greenwood",,,,,greenwood,B
+King,"King",,,,,king,Y
+Woodbine,"Woodbine",,,,,woodbine,B
+Kennedy,"Kennedy",,,,,kennedy,B;SC
+Eglinton,"Eglinton",,,,,eglinton,Y
+Wilson,"Wilson",,,,,wilson,Y
+Yorkdale,"Yorkdale",,,,,yorkdale,Y
+Dupont,"Dupont",,,,,dupont,Y
+Bay,"Bay",,,,,bay,B
+Glencairn,"Glencairn",,,,,glencairn,Y
+Kipling,"Kipling",,,,,kipling,B
+Chester,"Chester",,,,,chester,B
+Bathurst,"Bathurst",,,,,bathurst,B
+Bayview,"Bayview",,,,,bayview,SH
+Spadina,"Spadina",,,,,spadina,B
+Lansdowne,"Lansdowne",,,,,lansdowne,B
+Scarborough_Centre,"Scarborough Centre",,,,,scarborough_centre,SC
+Ellesmere,"Ellesmere",,,,,ellesmere,SC
+Royal_York,"Royal York",,,,,royal_york,B
+Osgoode,"Osgoode",,,,,osgoode,Y
+Lawrence_East,"Lawrence East",,,,,lawrence_east,SC
+Bessarion,"Bessarion",,,,,bessarion,SH
+Leslie,"Leslie",,,,,leslie,SH
+St_Clair_West,"St Clair West",,,,,st_clair_west,Y
+North_York_Centre,"North York Centre",,,,,north_york_centre,Y
+Midland,"Midland",,,,,midland,SC
+St_Clair,"St Clair",,,,,st_clair,Y
+College,"College",,,,,college,Y
+St_Andrew,"St Andrew",,,,,st_andrew,Y
+Bloor-Yonge,"Bloor-Yonge",,,,,bloor-yonge,Y;B
+McCowan,"McCowan",,,,,mccowan,SC
+St_Patrick,"St Patrick",,,,,st_patrick,Y
+St_George,"St George",,,,,st_george,Y;B
+Rosedale,"Rosedale",,,,,rosedale,Y
+Eglinton_West,"Eglinton West",,,,,eglinton_west,Y

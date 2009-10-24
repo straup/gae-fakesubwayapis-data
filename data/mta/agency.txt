@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
+mta,"Metropolitain Transit Authority","http://www.mta.info/",America/New_York,

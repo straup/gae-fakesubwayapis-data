@@ -1,0 +1,6 @@
+route_id,route_short_name,route_long_name
+R,R,Red
+O,O,ORange
+G,G,Green
+B,B,Blue
+S,S,Silver

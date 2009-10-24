@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
+1,"Washington Metropolitain Transit Authority","http://www.wmata.com",America/New_York,"http://www.wmata.com/rail/station_detail.cfm?station_id=%s"
