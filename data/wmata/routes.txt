@@ -1,0 +1,6 @@
+route_id,route_short_name,route_long_name,route_description
+R,R,"Red",Glenmont to Shady Grove"
+O,O,"Orange","New Carrolton to Vienna/Fairfax-GMU"
+B,B,"Blue","Franconia-Springfield to Largo Town Center"
+G,G,"Green","Branch Avenue to Greenbelt"
+Y,Y,"Yellow","Huntington to Fort Totten"
