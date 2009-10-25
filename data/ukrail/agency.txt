@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,fsa_id_template,fsa_url_template
-ukrail,"UK National Rail Service","http://www.nationalrail.co.uk/",,lower,"http://www.nationalrail.co.uk/stations/%s/details.html"
+ukrail,"UK National Rail Service","http://www.nationalrail.co.uk/",,upper,"http://www.nationalrail.co.uk/stations/%s/details.html"
