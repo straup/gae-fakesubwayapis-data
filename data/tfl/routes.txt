@@ -1,0 +1,12 @@
+route_id,route_short_name,route_long_name
+B,B,bakerloo
+C,C,central
+D,D,district
+H,H,hammersmith
+J,J,jubilee
+M,M,metropolitain
+N,N,northern
+O,O,circle
+P,P,picadilly
+W,W,waterloo
+V,V,victoria

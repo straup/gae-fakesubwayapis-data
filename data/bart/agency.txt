@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
-1,"Bay Area Rapid Transit","http://www.bart.gov/",America/Los_Angeles,"http://www.bart.gov/stations/%s"
+agency_id,agency_name,agency_url,agency_timezone,fsa_id_template,fsa_url_template
+bart,"Bay Area Rapid Transit","http://www.bart.gov/",America/Los_Angeles,lower,"http://www.bart.gov/stations/%s"

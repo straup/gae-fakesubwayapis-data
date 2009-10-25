@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
-stm,"Société de transport de Montréal","http://www.stm.info/",America/New_York,"http://www.stm.info/metro/%s.htm"
+agency_id,agency_name,agency_url,agency_timezone,fsa_id_template,fsa_url_template
+stm,"Société de transport de Montréal","http://www.stm.info/",America/New_York,lower,"http://www.stm.info/metro/%s.htm"

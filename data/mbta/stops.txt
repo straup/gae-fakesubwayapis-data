@@ -83,4 +83,4 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,fsa_stop_id,fsa_stop_route
 15643,Museum of Fine Arts,,42.337732,-71.095125,,15643,G
 15645,Longwood Medical Area,,42.335898,-71.100052,,15645,G
 15646,Brigham Circle,,42.334268,-71.10437,,15646,G
-15648,Fenwood Street,,42.333722,-71.1056
+15648,Fenwood Street,,42.333722,-71.1056,,15648,G

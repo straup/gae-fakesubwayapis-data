@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,fsa_url_template
-ttc,"Toronto Transit Commission","http://www3.ttc.ca/",America/New_York,"http://www3.ttc.ca/Subway/Stations/%s/station.jsp"
+agency_id,agency_name,agency_url,agency_timezone,fsa_id_template,fsa_url_template
+ttc,"Toronto Transit Commission","http://www3.ttc.ca/",America/New_York,title,"http://www3.ttc.ca/Subway/Stations/%s/station.jsp"
