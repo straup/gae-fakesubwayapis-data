@@ -3,10 +3,31 @@ These are the raw data files used by Fake Subway APIs:
       http://fakesubwayapis.appspot.com
       http://github.com/straup/gae-fakesubwayapis
 
-They are not 100% compliant with the Google Transit Feed Specification but are
-modeled after the agency, stops and routes definitions with "fsa_" extensions
-where necessary.
+They are not 100% compliant with the Google Transit Feed Specification (GTFS)
+but are modeled after the agency, stops and routes definitions with "fsa_"
+extensions where necessary.
 
       http://code.google.com/transit/spec/transit_feed_specification.html
 
-They are also incomplete, as of this writing.
+The idea being that you can drop in an 'agency.txt' file, a 'stops.txt' file and
+optionally a 'routes.txt' file for a given service and start up a new service
+endpoint on Fake Subway APIs by simply adding a new entry to the URL dispatcher.
+
+Here's an example:
+
+# agency.txt
+
+agency_id,agency_name,agency_url,agency_timezone,fsa_id_template,fsa_url_template
+bart,"Bay Area Rapid Transit","http://www.bart.gov/",America/Los_Angeles,lower,"http://www.bart.gov/stations/%s"
+
+# stops.txt
+
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,fsa_stop_id
+orin,Orinda,,,,,orin
+ftvl,Fruitvale (Oakland),,,,,ftvl
+civc,Civic Center (SF),,,,,civc
+...
+
+It's worth noting that the final format is still up in the air. (Personally, I
+don't love GTFS but if people are using it and it's safe to add "fsa_"
+extensions then what I think isn't that important.)
