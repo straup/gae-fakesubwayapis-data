@@ -1,0 +1,142 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_code,location_type,parent_station,position,direction,fsa_stop_id
+10117,Goose Hollow/SW Jefferson St MAX Station,Westbound stop in Portland (Stop ID 10117),45.518252,-122.693836,1,10117,0,,,West
+10118,Goose Hollow/SW Jefferson St MAX Station,Eastbound stop in Portland (Stop ID 10118),45.518206,-122.693736,1,10118,0,,,East
+10120,Washington Park MAX Station,Eastbound stop in Portland (Stop ID 10120),45.510654,-122.71634,1,10120,0,,,East
+10121,Washington Park MAX Station,Westbound stop in Portland (Stop ID 10121),45.510661,-122.717244,1,10121,0,,,West
+10572,Parkrose/Sumner TC MAX Station,Northbound stop in Portland (Stop ID 10572),45.559456,-122.565053,3,10572,0,81-tc,,North
+10573,Parkrose/Sumner TC MAX Station,Southbound stop in Portland (Stop ID 10573),45.559468,-122.565073,3,10573,0,81-tc,,South
+10574,Cascades MAX Station,Westbound stop in Portland (Stop ID 10574),45.57239,-122.55829,3,10574,0,,,West
+10575,Cascades MAX Station,Eastbound stop in Portland (Stop ID 10575),45.572075,-122.5577,3,10575,0,,,East
+10576,Mt Hood Ave MAX Station,Northbound stop in Portland (Stop ID 10576),45.577359,-122.567151,3,10576,0,,,North
+10577,Mt Hood Ave MAX Station,Southbound stop in Portland (Stop ID 10577),45.57684,-122.567113,3,10577,0,,,South
+10579,Portland Int'l Airport MAX Station,Eastbound stop in Portland (Stop ID 10579),45.587584,-122.5931,3,10579,0,,,East
+11498,Expo Center MAX Station,Eastbound stop in Portland (Stop ID 11498),45.605354,-122.685706,2,11498,0,,,East
+11499,Delta Park/Vanport MAX Station,Southbound stop in Portland (Stop ID 11499),45.596125,-122.685683,2,11499,0,,,South
+11500,Kenton/N Denver Ave MAX Station,Southbound stop in Portland (Stop ID 11500),45.583921,-122.686172,2,11500,0,,,South
+11501,N Lombard TC MAX Station,Southbound stop in Portland (Stop ID 11501),45.576938,-122.68213,2,11501,0,82-tc,,South
+11502,Rosa Parks MAX Station,Southbound stop in Portland (Stop ID 11502),45.569695,-122.68219,2,11502,0,,,South
+11503,N Killingsworth St MAX Station,Southbound stop in Portland (Stop ID 11503),45.562557,-122.68227,2,11503,0,,,South
+11504,N Prescott St MAX Station,Southbound stop in Portland (Stop ID 11504),45.555183,-122.68232,2,11504,0,,,South
+11505,Overlook Park MAX Station,Southbound stop in Portland (Stop ID 11505),45.548969,-122.681042,2,11505,0,,,South
+11506,Albina/Mississippi MAX Station,Southbound stop in Portland (Stop ID 11506),45.539535,-122.675567,1,11506,0,,,South
+11507,Interstate/Rose Quarter MAX Station,Southbound stop in Portland (Stop ID 11507),45.529975,-122.667424,0,11507,0,79-tc,,South
+11508,Interstate/Rose Quarter MAX Station,Northbound stop in Portland (Stop ID 11508),45.530244,-122.667794,0,11508,0,79-tc,,North
+11509,Albina/Mississippi MAX Station,Northbound stop in Portland (Stop ID 11509),45.539673,-122.675668,1,11509,0,,,North
+11510,Overlook Park MAX Station,Northbound stop in Portland (Stop ID 11510),45.548478,-122.680953,2,11510,0,,,North
+11511,N Prescott St MAX Station,Northbound stop in Portland (Stop ID 11511),45.55524,-122.682284,2,11511,0,,,North
+11512,N Killingsworth St MAX Station,Northbound stop in Portland (Stop ID 11512),45.562757,-122.68222,2,11512,0,,,North
+11513,Rosa Parks MAX Station,Northbound stop in Portland (Stop ID 11513),45.570079,-122.682133,2,11513,0,,,North
+11514,N Lombard TC MAX Station,Northbound stop in Portland (Stop ID 11514),45.577295,-122.682078,2,11514,0,82-tc,,North
+11515,Kenton/N Denver Ave MAX Station,Northbound stop in Portland (Stop ID 11515),45.583947,-122.686142,2,11515,0,,,North
+11516,Delta Park/Vanport MAX Station,Northbound stop in Portland (Stop ID 11516),45.59612,-122.685563,2,11516,0,,,North
+13123,SW 6th & Madison St MAX Station,Northbound stop in Portland (Stop ID 13123),45.515571,-122.680378,0,13123,0,,Nearside,North
+13124,SE Main St MAX Station,Southbound stop in Portland (Stop ID 13124),45.513986,-122.564467,3,13124,0,,Nearside,South
+13125,SE Division St MAX Station,Southbound stop in Portland (Stop ID 13125),45.503085,-122.566634,3,13125,0,,Farside,South
+13126,SE Powell Blvd MAX Station,Southbound stop in Portland (Stop ID 13126),45.495547,-122.56615,3,13126,0,,Farside,South
+13127,SE Holgate Blvd MAX Station,Southbound stop in Portland (Stop ID 13127),45.490876,-122.566247,3,13127,0,,Nearside,South
+13128,Lents/SE Foster Rd MAX Station,Southbound stop in Portland (Stop ID 13128),45.480207,-122.566855,3,13128,0,,Nearside,South
+13129,SE Flavel St MAX Station,Southbound stop in Portland (Stop ID 13129),45.467592,-122.566735,3,13129,0,,Farside,South
+13130,SE Fuller Rd MAX Station,Southbound stop in Clackamas Co. (Stop ID 13130),45.453168,-122.57356,3,13130,0,,,South
+13132,Clackamas Town Center TC MAX Station,Northbound stop in Clackamas Co. (Stop ID 13132),45.436095,-122.567834,3,13132,0,65-tc,,North
+13133,SE Fuller Rd MAX Station,Northbound stop in Clackamas Co. (Stop ID 13133),45.453665,-122.573642,3,13133,0,,,North
+13134,SE Flavel St MAX Station,Northbound stop in Portland (Stop ID 13134),45.468062,-122.566516,3,13134,0,,Nearside,North
+13135,Lents/SE Foster Rd MAX Station,Northbound stop in Portland (Stop ID 13135),45.480681,-122.566716,3,13135,0,,Farside,North
+13136,SE Holgate Blvd MAX Station,Northbound stop in Portland (Stop ID 13136),45.491378,-122.566197,3,13136,0,,Farside,North
+13137,SE Powell Blvd MAX Station,Northbound stop in Portland (Stop ID 13137),45.495991,-122.566198,3,13137,0,,Nearside,North
+13138,SE Division St MAX Station,Northbound stop in Portland (Stop ID 13138),45.503608,-122.566584,3,13138,0,,Nearside,North
+13139,SE Main St MAX Station,Northbound stop in Portland (Stop ID 13139),45.514525,-122.564413,3,13139,0,,Farside,North
+13297,SE Division & SE Division St MAX Station,Eastbound stop in Portland (Stop ID 13297),45.504342,-122.566876,3,13297,0,,,East
+13298,SE Division & SE Division St MAX Station,Westbound stop in Portland (Stop ID 13298),45.504579,-122.567012,3,13298,0,,Opposite,West
+7618,PSU/SW 5th & Mill St MAX Station,Southbound stop in Portland (Stop ID 7618),45.511788,-122.681383,0,7618,0,,Farside,South
+7627,SW 5th & Oak St MAX Station,Southbound stop in Portland (Stop ID 7627),45.521573,-122.676178,0,7627,0,,Nearside,South
+7646,Pioneer Place/SW 5th Ave MAX Station,Southbound stop in Portland (Stop ID 7646),45.518255,-122.677934,0,7646,0,,Nearside,South
+7774,PSU/SW 6th & Montgomery MAX Station,Northbound stop in Portland (Stop ID 7774),45.511583,-122.682578,0,7774,0,,Opposite,North
+7787,SW 6th & Pine St MAX Station,Northbound stop in Portland (Stop ID 7787),45.522327,-122.676758,0,7787,0,,Opposite,North
+8333,Library/SW 9th Ave MAX Station,Eastbound stop in Portland (Stop ID 8333),45.519089,-122.68151,0,8333,0,,,East
+8334,Pioneer Square South MAX Station,Eastbound stop in Portland (Stop ID 8334),45.518403,-122.678956,0,8334,0,,,East
+8335,Mall/SW 4th Ave MAX Station,Eastbound stop in Portland (Stop ID 8335),45.517898,-122.67706,0,8335,0,,,East
+8336,Yamhill District MAX Station,Eastbound stop in Portland (Stop ID 8336),45.517086,-122.674065,0,8336,0,,,East
+8337,Oak/SW 1st Ave MAX Station,Northbound stop in Portland (Stop ID 8337),45.520389,-122.672111,0,8337,0,,Nearside,North
+8338,Skidmore Fountain MAX Station,Northbound stop in Portland (Stop ID 8338),45.523094,-122.671303,0,8338,0,,,North
+8339,Old Town/Chinatown MAX Station,Northbound stop in Portland (Stop ID 8339),45.525284,-122.671455,0,8339,0,,,North
+8340,Rose Quarter TC MAX Station,Eastbound stop in Portland (Stop ID 8340),45.530078,-122.665749,0,8340,0,79-tc,,East
+8341,Convention Center MAX Station,Eastbound stop in Portland (Stop ID 8341),45.530052,-122.661652,0,8341,0,,,East
+8342,NE 7th Ave MAX Station,Eastbound stop in Portland (Stop ID 8342),45.530058,-122.657863,0,8342,0,,Farside,East
+8343,Lloyd Center/NE 11th Ave MAX Station,Eastbound stop in Portland (Stop ID 8343),45.53003,-122.654544,0,8343,0,,,East
+8344,Hollywood/NE 42nd Ave TC MAX Station,Eastbound stop in Portland (Stop ID 8344),45.532696,-122.620326,2,8344,0,74-tc,,East
+8345,NE 60th Ave MAX Station,Eastbound stop in Portland (Stop ID 8345),45.528764,-122.602703,2,8345,0,,,East
+8346,NE 82nd Ave MAX Station,Eastbound stop in Portland (Stop ID 8346),45.533718,-122.579057,2,8346,0,,,East
+8347,Gateway/NE 99th Ave TC MAX Station,Southbound stop in Portland (Stop ID 8347),45.53031,-122.563573,3,8347,0,71-tc,,South
+8348,E 102nd Ave MAX Station,Eastbound stop in Portland (Stop ID 8348),45.522639,-122.558273,3,8348,0,,Farside,East
+8349,E 122nd Ave MAX Station,Eastbound stop in Portland (Stop ID 8349),45.522491,-122.537766,3,8349,0,,Farside,East
+8350,E 148th Ave MAX Station,Eastbound stop in Portland (Stop ID 8350),45.522268,-122.510651,3,8350,0,,Farside,East
+8351,E 162nd Ave MAX Station,Eastbound stop in Gresham (Stop ID 8351),45.522171,-122.496418,3,8351,0,,Farside,East
+8352,E 172nd Ave MAX Station,Eastbound stop in Gresham (Stop ID 8352),45.522057,-122.486125,3,8352,0,,Farside,East
+8353,E 181st Ave MAX Station,Eastbound stop in Gresham (Stop ID 8353),45.522006,-122.477058,3,8353,0,,Farside,East
+8354,Rockwood/E 188th Ave TC MAX Station,Eastbound stop in Gresham (Stop ID 8354),45.520248,-122.470116,3,8354,0,75-tc,Farside,East
+8355,Ruby Junction/E 197th Ave MAX Station,Eastbound stop in Gresham (Stop ID 8355),45.515709,-122.4594,3,8355,0,,Farside,East
+8356,Gresham City Hall MAX Station,Eastbound stop in Gresham (Stop ID 8356),45.505506,-122.435298,3,8356,0,,Opposite,East
+8357,Gresham Central TC MAX Station,Eastbound stop in Gresham (Stop ID 8357),45.502603,-122.427081,3,8357,0,73-tc,,East
+8359,Cleveland Ave MAX Station,Westbound stop in Gresham (Stop ID 8359),45.501841,-122.418655,3,8359,0,,Nearside,West
+8360,Gresham Central TC MAX Station,Westbound stop in Gresham (Stop ID 8360),45.502617,-122.427062,3,8360,0,73-tc,,West
+8361,Gresham City Hall MAX Station,Westbound stop in Gresham (Stop ID 8361),45.50552,-122.43528,3,8361,0,,,West
+8362,Ruby Junction/E 197th Ave MAX Station,Westbound stop in Gresham (Stop ID 8362),45.516437,-122.46097,3,8362,0,,Farside,West
+8363,Rockwood/E 188th Ave TC MAX Station,Westbound stop in Gresham (Stop ID 8363),45.520279,-122.470112,3,8363,0,75-tc,Farside,West
+8364,E 181st Ave MAX Station,Westbound stop in Gresham (Stop ID 8364),45.52202,-122.47714,3,8364,0,,Farside,West
+8365,E 172nd Ave MAX Station,Westbound stop in Gresham (Stop ID 8365),45.522118,-122.486186,3,8365,0,,Farside,West
+8366,E 162nd Ave MAX Station,Westbound stop in Gresham (Stop ID 8366),45.522215,-122.496464,3,8366,0,,Farside,West
+8367,E 148th Ave MAX Station,Westbound stop in Portland (Stop ID 8367),45.522345,-122.510709,3,8367,0,,Farside,West
+8368,E 122nd Ave MAX Station,Westbound stop in Portland (Stop ID 8368),45.52251,-122.537778,3,8368,0,,Farside,West
+8369,E 102nd Ave MAX Station,Westbound stop in Portland (Stop ID 8369),45.52269,-122.558305,3,8369,0,,Farside,West
+8370,Gateway/NE 99th Ave TC MAX Station,Northbound stop in Portland (Stop ID 8370),45.530839,-122.563627,3,8370,0,71-tc,,North
+8371,NE 82nd Ave MAX Station,Westbound stop in Portland (Stop ID 8371),45.533743,-122.579033,2,8371,0,,,West
+8372,NE 60th Ave MAX Station,Westbound stop in Portland (Stop ID 8372),45.528491,-122.603342,2,8372,0,,,West
+8373,Hollywood/NE 42nd Ave TC MAX Station,Westbound stop in Portland (Stop ID 8373),45.532832,-122.620287,2,8373,0,74-tc,,West
+8374,Lloyd Center/NE 11th Ave MAX Station,Westbound stop in Portland (Stop ID 8374),45.530087,-122.654564,0,8374,0,,,West
+8375,NE 7th Ave MAX Station,Westbound stop in Portland (Stop ID 8375),45.53015,-122.658277,0,8375,0,,Nearside,West
+8376,Convention Center MAX Station,Westbound stop in Portland (Stop ID 8376),45.530045,-122.662064,0,8376,0,,,West
+8377,Rose Quarter TC MAX Station,Westbound stop in Portland (Stop ID 8377),45.530167,-122.665742,0,8377,0,79-tc,,West
+8378,Old Town/Chinatown MAX Station,Southbound stop in Portland (Stop ID 8378),45.524559,-122.671363,0,8378,0,,,South
+8379,Skidmore Fountain MAX Station,Southbound stop in Portland (Stop ID 8379),45.523121,-122.671294,0,8379,0,,,South
+8380,Oak/ SW 1st Ave MAX Station,Southbound stop in Portland (Stop ID 8380),45.520424,-122.672196,0,8380,0,,Farside,South
+8381,Morrison/SW 3rd Ave MAX Station,Westbound stop in Portland (Stop ID 8381),45.518238,-122.67553,0,8381,0,,Nearside,West
+8382,Mall/SW 5th Ave MAX Station,Westbound stop in Portland (Stop ID 8382),45.518795,-122.677574,0,8382,0,,,West
+8383,Pioneer Square North MAX Station,Westbound stop in Portland (Stop ID 8383),45.519352,-122.679622,0,8383,0,,,West
+8384,Galleria/SW 10th Ave MAX Station,Westbound stop in Portland (Stop ID 8384),45.519978,-122.682067,0,8384,0,,,West
+9299,NW 6th & Davis St MAX Station,Northbound stop in Portland (Stop ID 9299),45.524409,-122.676381,0,9299,0,,Nearside,North
+9303,NW 5th & Couch St MAX Station,Southbound stop in Portland (Stop ID 9303),45.523885,-122.675498,0,9303,0,,Nearside,South
+9624,Sunset TC MAX Station,Westbound stop in Beaverton (Stop ID 9624),45.510384,-122.781299,3,9624,0,76-tc,,West
+9757,PGE Park MAX Station,Westbound stop in Portland (Stop ID 9757),45.521833,-122.689816,1,9757,0,,,West
+9758,PGE Park MAX Station,Eastbound stop in Portland (Stop ID 9758),45.521311,-122.689786,1,9758,0,,,East
+9759,Kings Hill/SW Salmon St MAX Station,Northbound stop in Portland (Stop ID 9759),45.520501,-122.691103,1,9759,0,,,North
+9818,Beaverton TC MAX Station,Southbound stop in Beaverton (Stop ID 9818),45.49133,-122.801723,3,9818,0,66-tc,,South
+9819,Beaverton Creek MAX Station,Westbound stop in Beaverton (Stop ID 9819),45.500584,-122.833327,3,9819,0,,,West
+9820,Kings Hill/SW Salmon St MAX Station,Southbound stop in Portland (Stop ID 9820),45.520661,-122.690968,1,9820,0,,,South
+9821,Beaverton TC MAX Station,Northbound stop in Beaverton (Stop ID 9821),45.491696,-122.8012,3,9821,0,66-tc,,North
+9822,Beaverton Creek MAX Station,Eastbound stop in Beaverton (Stop ID 9822),45.500249,-122.832785,3,9822,0,,,East
+9823,Beaverton Central MAX Station,Westbound stop in Beaverton (Stop ID 9823),45.49046,-122.807126,3,9823,0,,,West
+9824,Beaverton Central MAX Station,Eastbound stop in Beaverton (Stop ID 9824),45.490437,-122.807103,3,9824,0,,,East
+9825,Millikan Way MAX Station,Westbound stop in Beaverton (Stop ID 9825),45.495188,-122.821266,3,9825,0,,,West
+9826,Millikan Way MAX Station,Eastbound stop in Beaverton (Stop ID 9826),45.495101,-122.821238,3,9826,0,,,East
+9827,Merlo Rd/SW 158th Ave MAX Station,Westbound stop in Beaverton (Stop ID 9827),45.505406,-122.842431,3,9827,0,,,West
+9828,Merlo Rd/SW 158th Ave MAX Station,Eastbound stop in Beaverton (Stop ID 9828),45.505056,-122.84187,3,9828,0,,,East
+9829,Elmonica/SW 170th Ave MAX Station,Westbound stop in Beaverton (Stop ID 9829),45.510132,-122.851732,3,9829,0,,,West
+9830,Elmonica/SW 170th Ave MAX Station,Eastbound stop in Beaverton (Stop ID 9830),45.509778,-122.851193,3,9830,0,,,East
+9831,Willow Creek/SW 185th Ave TC MAX Station,Eastbound stop in Hillsboro (Stop ID 9831),45.517114,-122.869877,3,9831,0,78-tc,,East
+9832,Willow Creek/SW 185th Ave TC MAX Station,Westbound stop in Hillsboro (Stop ID 9832),45.517375,-122.870517,3,9832,0,78-tc,,West
+9833,Quatama/NW 205th Ave MAX Station,Westbound stop in Hillsboro (Stop ID 9833),45.523324,-122.889129,3,9833,0,,,West
+9834,Quatama/NW 205th Ave MAX Station,Eastbound stop in Hillsboro (Stop ID 9834),45.523063,-122.888498,3,9834,0,,,East
+9835,Orenco/NW 231st Ave MAX Station,Eastbound stop in Hillsboro (Stop ID 9835),45.530251,-122.915466,3,9835,0,,,East
+9836,Orenco/NW 231st Ave MAX Station,Westbound stop in Hillsboro (Stop ID 9836),45.530298,-122.916199,3,9836,0,,,West
+9839,Hawthorn Farm MAX Station,Eastbound stop in Hillsboro (Stop ID 9839),45.530008,-122.930377,3,9839,0,,,East
+9840,Hawthorn Farm MAX Station,Westbound stop in Hillsboro (Stop ID 9840),45.52992,-122.93112,3,9840,0,,,West
+9841,Washington/SE 12th Ave MAX Station,Eastbound stop in Hillsboro (Stop ID 9841),45.521105,-122.969152,3,9841,0,,,East
+9842,Washington/SE 12th Ave MAX Station,Westbound stop in Hillsboro (Stop ID 9842),45.521231,-122.969867,3,9842,0,,,West
+9843,Tuality Hospital/SE 8th Ave MAX Station,Eastbound stop in Hillsboro (Stop ID 9843),45.521273,-122.977992,3,9843,0,,,East
+9844,Tuality Hospital/SE 8th Ave MAX Station,Westbound stop in Hillsboro (Stop ID 9844),45.521315,-122.978728,3,9844,0,,,West
+9845,Hillsboro Central/SE 3rd TC MAX Station,Westbound stop in Hillsboro (Stop ID 9845),45.521352,-122.985122,3,9845,0,77-tc,,West
+9846,Hillsboro Central/SE 3rd TC MAX Station,Eastbound stop in Hillsboro (Stop ID 9846),45.521353,-122.98527,3,9846,0,77-tc,,East
+9848,Hatfield Government Center MAX Station,Southbound stop in Hillsboro (Stop ID 9848),45.522204,-122.991022,3,9848,0,,,South
+9957,Millikan Way MAX Station/Park and Ride,Westbound stop in Beaverton (Stop ID 9957),45.495156,-122.821675,3,9957,0,,,West
+9958,Millikan Way MAX Station/Park and Ride,Westbound stop in Beaverton (Stop ID 9958),45.495066,-122.821434,3,9958,0,,,West
+9969,Sunset TC MAX Station,Eastbound stop in Beaverton (Stop ID 9969),45.510108,-122.780747,3,9969,0,76-tc,,East
