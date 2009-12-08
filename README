@@ -31,3 +31,7 @@ civc,Civic Center (SF),,,,,civc
 It's worth noting that the final format is still up in the air. (Personally, I
 don't love GTFS but if people are using it and it's safe to add "fsa_"
 extensions then what I think isn't that important.)
+
+# CONTRIBUTORS
+
+[GVB] Alper Çugun (http://github.com/alper)
