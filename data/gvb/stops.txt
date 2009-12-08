@@ -1,0 +1,59 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,fsa_stop_id
+ITW,Isolatorweg,,,,,ITW
+Ass,Station Amsterdam Sloterdijk,,,,,Ass
+VLN,De Vlugtlaan,,,,,VLN
+JLS,Jan van Galenstraat,,,,,JLS
+PJW,Postjesweg,,,,,PJW
+Asdl,Station Amsterdam Lelylaan,,,,,Asdl
+HDS,Heemstedestraat,,,,,HDS
+HVW,Henk Sneevlietweg,,,,,HVW
+ASW,Amstelveenseweg,,,,,ASW
+Asdz,Station Amsterdam Zuid,,,,,Asdz
+Rai,Station Amsterdam RAI,,,,,Rai
+OAS,Overamstel,,,,,OAS
+MDW,Van der Madeweg,,,,,MDW
+Dvd,Station Duivendrecht,,,,,Dvd
+SVT,Strandvliet,,,,,SVT
+Asb,Station Amsterdam Bijlmer ArenA,,,,,Asb
+BLW,Bullewijk,,,,,BLW
+Ashd,Station Amsterdam Holendrecht,,,,,Ashd
+RGB,Reigersbos,,,,,RGB
+GEN,Gein,,,,,GEN
+Asd,Station Amsterdam Centraal,,,,,Asd
+NMT,Nieuwmarkt,,,,,NMT
+WLP,Waterlooplein,,,,,WLP
+WPP,Weesperplein,,,,,WPP
+WBS,Wibautstraat,,,,,WBS
+Asa,Station Amsterdam Amstel,,,,,Asa
+SLW,Spaklerweg,,,,,SLW
+VU,De Boelelaan/VU,,,,,VU
+AES,A.J. Ernststraat,,,,,AES
+BZS,Van Boshuizenstraat,,,,,BZS
+USD,Uilenstede,,,,,USD
+KNB,Kronenburg,,,,,KNB
+ZNS,Zonnestein,,,,,ZNS
+ODU,Onderuit,,,,,ODU
+OJB,Oranjebaan,,,,,OJB
+AVC,Amstelveen Centrum,,,,,AVC
+OKL,Ouderkerkerlaan,,,,,OKL
+SLN,Sportlaan,,,,,SLN
+MNE,Marne,,,,,MNE
+GDL,Gondel,,,,,GDL
+MT,Meent,,,,,MT
+BK,Brink,,,,,BK
+PWT,Poortwachter,,,,,PWT
+SNR,Spinnerij,,,,,SNR
+SRL,Sacharovlaan,,,,,SRL
+WWK,Westwijk,,,,,WWK
+VPD,Venserpolder,,,,,VPD
+Dmnz,Station Diemen Zuid,,,,,Dmnz
+VSW,Verrijn Stuartweg,,,,,VSW
+GZH,Ganzenhoef,,,,,GZH
+KEN,Kraaiennest,,,,,KEN
+GPP,Gaasperplas,,,,,GPP
+BPN,Buikslotermeerplein,,,,,BPN
+HSW,Johan van Hasseltweg,,,,,HSW
+RN,Rokin,,,,,RN
+VZT,Vijzelgracht,,,,,VZT
+CRN,Ceintuurbaan,,,,,CRN
+EPN,Europaplein,,,,,EPN
